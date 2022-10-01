@@ -9,7 +9,7 @@ Von der Webentwicklung, über die Java Programmierung für Android, bishin zur S
 Mittlerweile habe ich erkannt, dass mir die Web -und Spielentwicklung am meisten Spass bereitet.
 Heute programmiere ich Webseiten und arbeite an einer meiner Spiele weiter, welche ich für meinen Abschlussprojekt in der 3. Sekundarschule entwickelt habe.
 
-Falls Sie noch Fragen an mir haben sollten, können Sie mir gerne eine E-Mail schicken oder anrufen.
+Falls Sie noch Fragen an mir haben sollten, können Sie mir gerne eine E-Mail schreiben oder mir anrufen.
 
 Telefonnummer: 078 212 55 55<br>
 E-Mail: leonardo.bontorno@hispeed.ch
