@@ -7,7 +7,7 @@ In diesem Profil möchte ich meine Fähigkeiten und Projekte zeigen, welche ich 
 Von der Webentwicklung, über die Java Programmierung für Android, bishin zur Spielentwicklung mit C# in Unity.
 
 Mittlerweile habe ich erkannt, dass mir die Web -und Spielentwicklung am meisten Spass bereitet.
-Heute programmiere ich Webseiten und arbeite an einer meiner Spiele weiter, welche ich für mein Abschlussprojekt in der 3. Sekundarschule entwickelt habe.
+Heute programmiere ich Webseiten und arbeite an einer meiner Spiele weiter, welche ich für meinen Abschlussprojekt in der 3. Sekundarschule entwickelt habe.
 
 Falls Sie noch Fragen an mir haben sollten, können Sie mir gerne eine E-Mail schicken oder anrufen.
 
