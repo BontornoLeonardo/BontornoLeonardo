@@ -11,5 +11,5 @@ Heute programmiere ich Webseiten und arbeite an einer meiner Spiele, welche ich 
 
 Falls Sie noch Fragen an mir haben sollten, können Sie mir gerne eine E-Mail schicken oder anrufen.
 
-Telefonnummer: 078 212 55 55
+Telefonnummer: 078 212 55 55<br>
 E-Mail: leonardo.bontorno@hispeed.ch
