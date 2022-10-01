@@ -1,4 +1,4 @@
-Herzlich willkommen auf mein Profil
+Herzlich willkommen auf diesen Profil
 
 Mein Name ist Leonardo Bontorno und ich gehe in das 10. Schuljahr Profil E3t (Technik und Elektrizität).
 Das programmieren (allgemein) ist eine grosse Leidenschaft von mir, weil ich da meine ganze Kreativität umsetzen kann.
