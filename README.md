@@ -6,7 +6,7 @@ In diesem Profil möchte ich meine Fähigkeiten und Projekte zeigen, welche ich 
 
 Mittlerweile habe ich erkannt, dass mir die Web – und Spielentwicklung am meisten Spass bereitet. Heute programmiere ich Webseiten und arbeite an einer meiner Spiele weiter, welche ich für mein Abschlussprojekt in der 3. Sekundarschule entwickelt habe.
 
-Falls Sie noch Fragen an mich haben sollten, können Sie mir gerne eine E-Mail schreiben oder mich anrufen. Javaprogrammierung besucht und mit einem Diplom abgeschlossen.
+Falls Sie noch Fragen an mich haben sollten, können Sie mir gerne eine E-Mail schreiben oder mich anrufen.
 
 Telefonnummer: 078 212 55 55<br>
 E-Mail: leonardo.bontorno@hispeed.ch
