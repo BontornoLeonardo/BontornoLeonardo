@@ -1,4 +1,4 @@
-Herzlich willkommen auf dieses Profil
+Herzlich willkommen auf meinem GitHub Profil,
 
 Mein Name ist Leonardo Bontorno und ich gehe in das 10. Schuljahr Profil E3t (Technik und Elektrizität). Das Programmieren (allgemein) ist eine grosse Leidenschaft von mir, weil ich da meine ganze Kreativität umsetzen kann.
 
